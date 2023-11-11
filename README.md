@@ -15,4 +15,3 @@ A cafe management system developed in C++ using object-oriented programming prin
     |   └── Cafe.h
     |   └── Makefile.win
     └──   
-  
